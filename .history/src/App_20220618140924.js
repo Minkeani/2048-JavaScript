@@ -1,6 +1,6 @@
 import './App.css';
 import './main.scss'
-import './styles.scss'
+import './styles.css'
 
 function App() {
   return (
